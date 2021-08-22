@@ -1,0 +1,7 @@
+Total amount
+Amount Due
+Grand Total
+Amount Due:
+Net Amount
+Bill Amount
+Total
